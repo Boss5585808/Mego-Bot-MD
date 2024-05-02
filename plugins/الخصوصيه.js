@@ -47,6 +47,6 @@ global.terminos = `
 
 -----------------
 تابع المطور :
-❈↲ https://Solo.to/bøss51-51
+❈↲ https://solo.to/boss51-51 
 
  *💫  THE BAN - BOT  💫*`
